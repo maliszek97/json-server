@@ -10,7 +10,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 2043,
 "amunicja": 6,
-"image": "https://jwk.wp.mil.pl/u/comando.jpg",    
+"image": "https://iv.pl/images/be227852cabe54c714271dec22f3ec26.jpg",    
 "adres":[    
 {
 "ulica": "Broniewicza",
@@ -49,7 +49,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 1426,
 "amunicja": 4,
-"image": "https://i.wpimg.pl/2000x0/d.wpimg.pl/1360009998-764845042/saper.jpg",    
+"image": "https://iv.pl/images/18b7353f36749fb86137661b4d806d9d.jpg",    
 "adres":[    
 {
 "ulica": "Ochockiego",
@@ -76,7 +76,7 @@
 }]
 },
 {
-"stanowisko": "Strzlec",    
+"stanowisko": "Strzelec",    
 "nazwa_operacyjna": "Pocisk",
 "dlugosc_sluzby": 9,
 "natychmiastowa_gotowosc": "tak",
@@ -86,7 +86,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 3184,
 "amunicja": 8,
-"image": "https://i.iplsc.com/zeby-zostac-snajperem-trzeba-miec-specjalne-predyspozycje/0003S9SIMAKX3MWM-C122-F4.jpg",
+"image": "https://iv.pl/images/474a8d216217e535a73c72bb842142b4.jpg",
 "adres":[    
 {
 "ulica": "Misiowa",
@@ -123,7 +123,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 6183,
 "amunicja": 7,
-"image": "https://www.wojsko-polskie.pl/u/78/9d/789d6b90-8ab7-45d6-8a47-0e628b1a02ce/radio3.jpg",
+"image": "https://iv.pl/images/4ef401dd1dca14910d03c3b4ba3adb4e.jpg",
 "adres":[    
 {
 "ulica": "Słoneczna",
@@ -160,7 +160,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 9416,
 "amunicja": 3,
-"image": "https://silentheroes.pl/wp-content/uploads/2020/09/65638.jpg", 
+"image": "https://iv.pl/images/b4242400660a37899be116df1931dd36.jpg", 
 "adres":[    
 {
 "ulica": "Waszyngtona",
@@ -197,7 +197,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 5722,
 "amunicja": 14,
-"image": "https://www.milmag.pl/files/news/photos/0/12/wp-ukm-2000.jpg",
+"image": "https://iv.pl/images/a65c0c2f17cf3720c590cb92708c3fbe.jpg",
 "adres":[    
 {
 "ulica": "Wilimowskiego",
@@ -234,7 +234,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 3777,
 "amunicja": 5,
-"image": "https://cdn.dvidshub.net/media/thumbs/photos/0809/116713/1000x630_q95.jpg",
+"image": "https://iv.pl/images/13e3a6ce96daea84a19cac2a687088c0.jpg",
 "adres":[    
  {
  "ulica": "Antoniuka",
@@ -271,7 +271,7 @@
  "status_zaszczepienia": "zaszczepiony",
  "id_karty": 7755,
  "amunicja": 10,
-"image": "https://www.milmag.pl/files/news/photos/4/4111/podlwot_lmp2017_01.jpg",
+"image": "https://iv.pl/images/da671fd28faf42cb5ddad26bc72f21d8.jpg",
 "adres":[    
 {
 "ulica": "Kopernika",
@@ -308,7 +308,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 1536,
 "amunicja": "brak",
-"image": "https://d-art.ppstatic.pl/kadry/k/r/1/7e/ab/56e2a97e0479c_o_full.jpg",
+"image": "https://iv.pl/images/af38c973d15c3a0d9a35a131ce020b6d.jpg",
 "adres":[    
 {
 "ulica": "Petraszki",
@@ -345,7 +345,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 5523,
 "amunicja": "4",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQykHcu8yKle8_2KfboNjpD2rDe_zZJdLXqqw&usqp=CAU",
+"image": "https://iv.pl/images/57601f521b39acccce2bf20bfec20a3d.jpg",
 "adres":[    
 {
 "ulica": "Roślinna",
