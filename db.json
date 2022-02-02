@@ -10,7 +10,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 2043,
 "amunicja": 6,
-"image": "https://iv.pl/images/be227852cabe54c714271dec22f3ec26.jpg",    
+"image": "/army/images/leader.jpg",    
 "adres":[    
 {
 "ulica": "Broniewicza",
@@ -49,7 +49,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 1426,
 "amunicja": 4,
-"image": "https://iv.pl/images/18b7353f36749fb86137661b4d806d9d.jpg",    
+"image": "/army/images/saper.jpg",    
 "adres":[    
 {
 "ulica": "Ochockiego",
@@ -86,7 +86,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 3184,
 "amunicja": 8,
-"image": "https://iv.pl/images/474a8d216217e535a73c72bb842142b4.jpg",
+"image": "/army/images/sniper.jpg",
 "adres":[    
 {
 "ulica": "Misiowa",
@@ -123,7 +123,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 6183,
 "amunicja": 7,
-"image": "https://iv.pl/images/4ef401dd1dca14910d03c3b4ba3adb4e.jpg",
+"image": "/army/images/radio.jpg",
 "adres":[    
 {
 "ulica": "Słoneczna",
@@ -160,7 +160,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 9416,
 "amunicja": 3,
-"image": "https://iv.pl/images/b4242400660a37899be116df1931dd36.jpg", 
+"image": "/army/images/medic.jpg", 
 "adres":[    
 {
 "ulica": "Waszyngtona",
@@ -197,7 +197,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 5722,
 "amunicja": 14,
-"image": "https://iv.pl/images/e758fc430aae858db63526498ab613f6.jpg",
+"image": "/army/images/heavy.jpg",
 "adres":[    
 {
 "ulica": "Wilimowskiego",
@@ -234,7 +234,7 @@
 "status_zaszczepienia": "niezaszczepiony",
 "id_karty": 3777,
 "amunicja": 5,
-"image": "https://iv.pl/images/13e3a6ce96daea84a19cac2a687088c0.jpg",
+"image": "/army/images/qrf.jpg",
 "adres":[    
  {
  "ulica": "Antoniuka",
@@ -271,7 +271,7 @@
  "status_zaszczepienia": "zaszczepiony",
  "id_karty": 7755,
  "amunicja": 10,
-"image": "https://iv.pl/images/da671fd28faf42cb5ddad26bc72f21d8.jpg",
+"image": "/army/images/mortar.jpg",
 "adres":[    
 {
 "ulica": "Kopernika",
@@ -308,7 +308,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 1536,
 "amunicja": "brak",
-"image": "https://iv.pl/images/af38c973d15c3a0d9a35a131ce020b6d.jpg",
+"image": "/army/images/drone.jpg",
 "adres":[    
 {
 "ulica": "Petraszki",
@@ -345,7 +345,7 @@
 "status_zaszczepienia": "zaszczepiony",
 "id_karty": 5523,
 "amunicja": "4",
-"image": "https://iv.pl/images/57601f521b39acccce2bf20bfec20a3d.jpg",
+"image": "/army/images/driver.jpg",
 "adres":[    
 {
 "ulica": "Roślinna",
